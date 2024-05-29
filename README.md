@@ -39,3 +39,5 @@
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79711409" width="100" height="100">](https://www.credential.net/79711409)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/71390573" width="100" height="100">](https://www.credential.net/71390573)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/68204775" width="100" height="100">](https://www.credential.net/68204775)
+[<img src="https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png" width="100" height="100">](https://learn.microsoft.com/api/achievements/share/en-us/TejasDavekar/HRAB7WT8?sharingId=A314A6678EF910E7)
+[<img src="https://dzuu00ar5kf6g.cloudfront.net/card_badges/images/000/000/108/large/open-uri20240426-20-2d5j39?1714128912" width="100" height="100">](https://learn.futureskillsprime.in/verify_badge/91eYUUAwKA?user_id=2090281&timestamp=1716963587072&edCast?latest)
