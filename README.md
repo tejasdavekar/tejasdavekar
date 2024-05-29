@@ -36,3 +36,6 @@
 [<img src="https://images.credly.com/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="100" height="100">](https://www.credly.com/badges/c1f35477-faf1-4373-ad47-0d7f5ab6744a)
 [<img src="https://images.credly.com/size/220x220/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100" height="100">](https://www.credly.com/badges/f254df4b-c920-4eca-b0cf-60a278090b38)
 [<img src="https://images.credly.com/size/220x220/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="100" height="100">](https://www.credly.com/badges/41d45bd9-c2db-44d3-aa7e-c7d3d1885ecf)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79711409" width="100" height="100">](https://www.credential.net/79711409)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/71390573" width="100" height="100">](https://www.credential.net/71390573)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/68204775" width="100" height="100">](https://www.credential.net/68204775)
